@@ -16,3 +16,4 @@ type(dic3)
 df3 = pd.DataFrame(dic3)
 print(df3)
 type(df3)
+
